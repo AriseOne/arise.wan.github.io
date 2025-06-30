@@ -3,7 +3,7 @@
 # Projects
 ### Project 1
 - Description
-- Links
+- [instagram](https://www.instagram.com/arise.wan/)
 
 ### Project 2
 - Description
