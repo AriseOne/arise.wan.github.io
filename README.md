@@ -1,6 +1,6 @@
 # arisewan.github.io
 
-## Projects
+# Projects
 ### Project 1
 - Description
 - Links
@@ -13,5 +13,5 @@
 - Some University
 
 # Work History
-- Work place 1
-- Work place 2
+- Workplace 1
+- Workplace 2
