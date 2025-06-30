@@ -1,2 +1,2 @@
-# arise.wan.github.io
+# arisewan.github.io
 Portfolio of another world
